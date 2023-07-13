@@ -5,8 +5,8 @@ metadata:
   description: An example of a Backstage application.
   annotations:
     sonarqube.org/project-key: sophos:nsg:central:paloma:paloma-yang-validator-svc
+
 spec:
-  type: service
-  system: saas
-  lifecycle: production
-  owner: Team-Saas
+  type: website
+  owner: john@example.com
+  lifecycle: experimental
