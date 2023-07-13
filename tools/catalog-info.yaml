@@ -8,6 +8,11 @@ metadata:
 
 spec:
   type: service
-  owner: ishan
-  lifecycle: experimental
+  system: swgaas-dns
+  lifecycle: production
+  owner: Team-Sushruta
+  dependsOn:
+    - component:backstage-102
+  providesApis:
+    - atestservice
   
