@@ -7,6 +7,6 @@ metadata:
     sonarqube.org/project-key: sophos:nsg:central:paloma:paloma-yang-validator-svc
 
 spec:
-  type: website
+  type: service
   owner: john@example.com
   lifecycle: experimental
