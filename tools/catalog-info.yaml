@@ -6,7 +6,7 @@ metadata:
   annotations:
     sonarqube.org/project-key: sophos:nsg:central:paloma:paloma-yang-validator-svc
     reportportal.io/reportportal-project: sase
-    reportportal.io/reportportal-url: https://www.google.com
+    reportportal.io/reportportal-url: 8.8. 8.8
     reportportal.io/reportportal-dashboard-number: "0"
 spec:
   type: service
