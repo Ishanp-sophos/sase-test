@@ -5,7 +5,9 @@ metadata:
   description: An example of a Backstage application.
   annotations:
     sonarqube.org/project-key: sophos:nsg:central:paloma:paloma-yang-validator-svc
-
+    reportportal.io/reportportal-project: sase
+    reportportal.io/reportportal-url: https://www.google.com
+    reportportal.io/reportportal-dashboard-number: "0"
 spec:
   type: service
   lifecycle: production
