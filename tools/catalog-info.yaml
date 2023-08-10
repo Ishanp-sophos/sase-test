@@ -9,6 +9,7 @@ metadata:
     reportportal.io/reportportal-project: sase
     reportportal.io/reportportal-url: https://www.sophos.com/en-us
     reportportal.io/reportportal-dashboard-number: "0"
+    blackduck/project: paloma-dpi/Vulnerability-Scan:master
 spec:
   type: service
   lifecycle: production
