@@ -10,6 +10,7 @@ metadata:
     reportportal.io/reportportal-url: https://www.sophos.com/en-us
     reportportal.io/reportportal-dashboard-number: "0"
     blackduck/project: paloma-dpi/Vulnerability-Scan:master
+    argocd/app-name: argo-abc-test
 spec:
   type: service
   lifecycle: production
