@@ -8,6 +8,7 @@ metadata:
     reportportal.io/reportportal-project: sase
     reportportal.io/reportportal-url: https://www.sophos.com/en-us
     reportportal.io/reportportal-dashboard-number: "0"
+    argocd/app-name: argo-abc
 spec:
   type: service
   lifecycle: production
